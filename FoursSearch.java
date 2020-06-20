@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Fours {
+public class FoursSearch {
 
 	private static Queue<String> queueFrontier = new LinkedList<>();
 	private static String startState = "4";
